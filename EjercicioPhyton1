@@ -1,6 +1,0 @@
-nombre = input("Ingrese su nombre: ")
-
-if nombre == "Ana" or nombre == "Juan" or nombre == "Pedro":
-    print("Hola, ¿cómo estás?")
-else:
-    print(f"Hola {nombre}, ¿cómo estás?")
